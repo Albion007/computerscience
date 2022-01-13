@@ -1,0 +1,203 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href="administration.xsl"?>
+<class>
+      <student rollno ="1">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Ismet</firstname>
+			<lastname>Temaj</lastname>
+			<position>Rector, Chairman</position>
+			<faculty>Faculty of Education</faculty>
+			<city>Prizren</city>
+	   </student>
+	   
+	   <student rollno ="2">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Shemsi</firstname>
+			<lastname>Morina</lastname>
+			<position>Vice Rector for Teaching, Students’ Issue and Scientific Researches</position>
+			<faculty>Faculty of Education</faculty>
+			<city>Malisheve</city>
+	  </student>
+	  
+	  <student rollno ="3">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Soner</firstname>
+			<lastname>Yildirim</lastname>
+			<position>Vice Rector for International Cooperation and Quality Assurance</position>
+			<faculty>Faculty of Education-Turkish</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="4">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Armend</firstname>
+			<lastname>Podvorica</lastname>
+			<position>Vice Rector for Budget, Finance and Infrastructure</position>
+			<faculty>Faculty of Law</faculty>
+			<city>Llap</city>
+	  </student>
+	  
+	  <student rollno ="5">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Samedin</firstname>
+			<lastname>Krrabaj</lastname>
+			<position>Dean of the Faculty of Computer Science, member</position>
+			<faculty>Faculty of Computer Science</faculty>
+			<city>Opoje</city>
+	  </student>
+	  
+	  <student rollno ="6">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Fahredin</firstname>
+			<lastname>Shabani</lastname>
+			<position>Dean of the Faculty of Education, member</position>
+			<faculty>Faculty of Education</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="7">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Ragip</firstname>
+			<lastname>Gjoshi</lastname>
+			<position>Acting Dean of the Faculty of Philology, member</position>
+			<faculty>Faculty of Philology</faculty>
+			<city>Drenas</city>
+	  </student>
+	  
+	  <student rollno ="8">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Halil</firstname>
+			<lastname>Kukaj</lastname>
+			<position>Dean of the Faculty of Economic, member</position>
+			<faculty>Faculty of Economic</faculty>
+			<city>Gjakove</city>
+	  </student>
+	  
+	  <student rollno ="9">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Kadri</firstname>
+			<lastname>Kryeziu</lastname>
+			<position>Acting Dean of the Faculty of Law, member</position>
+			<faculty>Faculty of Law</faculty>
+			<city>Malisheve</city>
+	  </student>
+	  
+	  <student rollno ="10">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Isuf</firstname>
+			<lastname>Lushi</lastname>
+			<position>Dean of the Faculty of Life and Environmental Sciences, memeber</position>
+			<faculty>Faculty of Life and Environmental Sciences</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="11">
+	        <grade>Prof.Asoc.Dr</grade>
+	        <firstname>Izer</firstname>
+			<lastname>Maksuti</lastname>
+			<position>Faculty of Philology, member</position>
+			<faculty>Faculty of Philology</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="12">
+	        <grade></grade>
+	        <firstname>Burim</firstname>
+			<lastname>Berisha</lastname>
+			<position>Secretary General, ex office</position>
+			<faculty></faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="13">
+	        <grade></grade>
+	        <firstname>Nexhmedin</firstname>
+			<lastname>Krasniqi</lastname>
+			<position>Member</position>
+			<faculty></faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="12">
+	        <grade></grade>
+	        <firstname>Burim</firstname>
+			<lastname>Berisha</lastname>
+			<position>Secretary General, ex office</position>
+			<faculty></faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="14">
+	        <grade></grade>
+	        <firstname>Milot</firstname>
+			<lastname>Krasniqi</lastname>
+			<position>President of the Students’ Parliament, ex office</position>
+			<faculty></faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="15">
+	        <grade></grade>
+	        <firstname>Pranvera</firstname>
+			<lastname>Qarri</lastname>
+			<position>Students’ Parliament member</position>
+			<faculty></faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="16">
+	        <grade></grade>
+	        <firstname>Arianit</firstname>
+			<lastname>Berisha</lastname>
+			<position>Students’ Parliament member</position>
+			<faculty></faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="17">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Muharrem</firstname>
+			<lastname>Faiku</lastname>
+			<position>Faculty of Law, member</position>
+			<faculty>Faculty of Law</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="18">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Bajram</firstname>
+			<lastname>Qupi</lastname>
+			<position>Faculty of Education, member</position>
+			<faculty>Faculty of Education</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	  <student rollno ="19">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Demir</firstname>
+			<lastname>Limaj</lastname>
+			<position>Faculty of Economics, Member</position>
+			<faculty>Faculty of Economic</faculty>
+			<city>Malisheve</city>
+	  </student>
+	  
+	  <student rollno ="20">
+	        <grade>Prof.Ass.Dr</grade>
+	        <firstname>Zirie</firstname>
+			<lastname>Hasani</lastname>
+			<position> Faculty of Computer Science, Member</position>
+			<faculty>Faculty of Computer Science</faculty>
+			<city>Tetove</city>
+	  </student>
+	  
+	  <student rollno ="21">
+	        <grade>Mr.Ass</grade>
+	        <firstname>Liridon</firstname>
+			<lastname>Bucaj</lastname>
+			<position>Faculty of Life and Environmental Sciences, memeber</position>
+			<faculty>Faculty of Life and Environmental Sciences</faculty>
+			<city>Prizren</city>
+	  </student>
+	  
+	</class>
+	  

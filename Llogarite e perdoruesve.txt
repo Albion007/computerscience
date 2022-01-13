@@ -1,0 +1,18 @@
+--> Administratori <--
+user -------> admin
+password ---> 12345
+Iam an -----> admin
+
+
+
+----> Profesori <-----
+user -------> profesor
+password ---> 11111
+Iam an -----> Proffesor
+
+
+
+------> Studenti <------
+user ---> student <----
+password -->55555 <----
+Iam an ---->Student <--
