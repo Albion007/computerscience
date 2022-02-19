@@ -15,6 +15,8 @@
     
     
     <title>Computer Science</title>
+
+    <link rel="shortcut icon" type="icon" href="./images/portfolio/logoja.jpg">
     
     <link rel="shortcut icon" href="images/favicon/favicon.png">
     <link rel="apple-touch-icon" sizes="144x144" type="image/x-icon" href="images/favicon/apple-touch-icon.png">
